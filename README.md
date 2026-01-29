@@ -43,19 +43,6 @@ This process is repeated for multiple users to simulate a real-world scenario wh
 
 ---
 
-## Sample Output
-
------- Daily Expense Report ------
-Name: Hasmi
-Daily Budget: 1000
-Total Food Expense: 450
-Transport Expense: 150
-Other Expense: 100
-Total Spent: 700
-Remaining Balance: 300
-
----
-
 ## Features
 - Beginner-friendly and easy-to-read code
 - Tracks expenses for multiple users
@@ -77,18 +64,6 @@ Remaining Balance: 300
 or
 
 4. Follow the on-screen instructions and enter your expense details
-
----
-
-## Project Structure
-python-expense-tracker-beginner/
-│
-├── expense_tracker.py
-├── README.md
-├── .gitignore
-└── LICENSE
-
----
 
 ## Learning Outcome
 By completing this project, I learned how to:
@@ -123,7 +98,7 @@ You are free to use, modify, and distribute this project for learning and person
 
 ---
 
-## ⭐ Acknowledgment
+## Acknowledgment
 Thanks to online Python learning resources and the open-source community for making programming accessible to beginners.
 
 
