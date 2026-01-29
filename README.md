@@ -1,13 +1,13 @@
-# 🐍 Python Expense Tracker (Beginner Project)
+# Python Expense Tracker (Beginner Project)
 
-## 📌 Overview
+## Overview
 This is my first Python project, created to practice and demonstrate a strong understanding of Python fundamentals such as variables, user input, type conversion, and basic arithmetic operations.
 
 The program allows users to enter their daily budget and expenses across different categories, then calculates the total amount spent and the remaining balance. The project focuses on writing clean, readable, and beginner-friendly code while solving a real-world problem: personal expense tracking.
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 - Understand how to use variables to store and manage user data
 - Practice taking input from users using the `input()` function
 - Learn how to convert string input into numbers using `int()`
@@ -17,7 +17,7 @@ The program allows users to enter their daily budget and expenses across differe
 
 ---
 
-## 🧠 Concepts Covered
+## Concepts Covered
 This project focuses on the following Python basics:
 
 - **Variables** – Store user data such as name, budget, and expenses  
@@ -28,7 +28,7 @@ This project focuses on the following Python basics:
 
 ---
 
-## ⚙️ How the Program Works (Step-by-Step)
+## How the Program Works (Step-by-Step)
 
 1. The program asks the user to enter their name.
 2. The user enters their daily budget.
@@ -43,7 +43,7 @@ This process is repeated for multiple users to simulate a real-world scenario wh
 
 ---
 
-## 🧾 Sample Output
+## Sample Output
 
 ------ Daily Expense Report ------
 Name: Hasmi
@@ -56,7 +56,7 @@ Remaining Balance: 300
 
 ---
 
-## 🚀 Features
+## Features
 - Beginner-friendly and easy-to-read code
 - Tracks expenses for multiple users
 - Categorizes spending into food, transport, and other expenses
@@ -65,7 +65,7 @@ Remaining Balance: 300
 
 ---
 
-## ▶️ How to Run This Project
+## How to Run This Project
 
 ### Requirements
 - Python 3.x installed on your system
@@ -80,7 +80,7 @@ or
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 python-expense-tracker-beginner/
 │
 ├── expense_tracker.py
@@ -90,7 +90,7 @@ python-expense-tracker-beginner/
 
 ---
 
-## 🎓 Learning Outcome
+## Learning Outcome
 By completing this project, I learned how to:
 - Build a complete Python program from scratch
 - Structure code in a readable and organized way
@@ -100,7 +100,7 @@ By completing this project, I learned how to:
 
 ---
 
-## 🌱 Future Improvements
+## Future Improvements
 Some features that can be added in future versions:
 - Input validation (preventing negative or invalid numbers)
 - Support for floating-point values (decimal currency)
@@ -110,14 +110,14 @@ Some features that can be added in future versions:
 
 ---
 
-## 🧑‍💻 Author
+## Author
 **Hasmi**  
 Beginner Python Developer  
 This is my first Python project, created as part of my learning journey.
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the MIT License.  
 You are free to use, modify, and distribute this project for learning and personal use.
 
